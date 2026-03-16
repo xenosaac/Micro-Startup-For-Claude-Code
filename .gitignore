@@ -1,0 +1,5 @@
+config/project.env
+logs/*.log
+runtime/*.json
+runtime/*.lock
+.DS_Store
